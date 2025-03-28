@@ -1,7 +1,7 @@
 import app from "./app.js";
 import mongoose from "mongoose";
 import router from "./router.js";
-const port = 5000;
+const port = 5432;
 const mongoUri =
   "mongodb+srv://admin:admin@cluster0.oto87.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
